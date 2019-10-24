@@ -6,4 +6,4 @@ def map(array)
     i += 1
   end
   new
-end  
+end
